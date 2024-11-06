@@ -132,15 +132,7 @@
  
 ### 📊 GitHub 통계
 
-<p align="center">
-  <a href="https://github.com/hamboong">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamboong&theme=solarized-light&show_icons=true&hide=contribs,prs&cache_seconds=1800" alt="Hyunju's GitHub stats" />
-  </a>
-  <a href="https://github.com/hamboong">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamboong&layout=compact&theme=solarized-light" alt="Top Langs" />
-  </a>
-</p>
- <br>
+
  
 ### 📋 기타사항
 
