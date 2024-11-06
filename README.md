@@ -1,4 +1,4 @@
-## 안녕하십니까 👋
+## 안녕하세요
 
 <!--
 **ayeon347/ayeon347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
