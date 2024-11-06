@@ -25,9 +25,10 @@
 | 2024 | 데이터 머신러닝 분석 | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 |업로드X |
 | 2024 | 데이터 딥러닝 분석 | 회귀 분석과 DNN 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상(이게뭐지) |  [🖱️CLICK!](https://github.com/hamboong/Regression_DL_Project)|
 | 2024 | 데이터 딥러닝 분석 | 신용등급 예측을 통한 고객 맞춤형 상품 개발 | 업로드X |
-| 2024 | 데이터 딥러닝 분석 | 시각장애인을위한 음료인식 및 위치음성 안내서비스| 업로드X |
+| 2024 | 데이터 딥러닝 분석 | 시각장애인을 위한 음료인식 및 위치음성 안내서비스| 업로드X |
 | 2024 | 스크래핑 & 추천시스템 | 뭐였지 | [🖱️CLICK!](https://github.com/hamboong/musinsa-standard_recommendation-system)|
 | 2024 | 스크래핑 & 빈도분석 | 기후위기, 해양오염, 탄소배출 키워드 분석 | |
+| 2024 | 금융데이터 분석 | 한화에어로스페이스 주가, 재무제표 데이터를 이용한 기업 심층 평가 | 추후 예정|
  <br>
  
 ### 📚 교육
@@ -123,7 +124,6 @@
     <td><strong>프로그래밍 언어</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C" style="margin: 0 5px;">
     </td>
   </tr>
 </table>
@@ -145,6 +145,7 @@
 ### 📋 기타사항
 
 - 🥄 취미: 수영, 스포츠 관람(야구, 배구, 농구)
+- 🔭 모험하는 걸 좋아함
 
 <!--
 **ayeon347/ayeon347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
